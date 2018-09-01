@@ -14,6 +14,15 @@
  Fig:Certificate 5
  
 ![Certificate 6](https://github.com/Rajs0ni/Graphics-and-Me/blob/master/Certificates/certificate-6.jpg)  
- Fig:Certificate 6
+ Fig:Certificate 6  
+ 
+ ![Certificate 7](https://github.com/Rajs0ni/Graphics-and-Me/blob/master/Certificates/certificate-8.jpg)  
+ Fig:Certificate 7
+ 
+ ![Certificate 8](https://github.com/Rajs0ni/Graphics-and-Me/blob/master/Certificates/certificate-9.jpg)  
+ Fig:Certificate 8
+ 
+ ![Certificate 9](https://github.com/Rajs0ni/Graphics-and-Me/blob/master/Certificates/certificate-10.jpg)  
+ Fig:Certificate 9
  
 
